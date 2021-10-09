@@ -1,9 +1,3 @@
-/*
-	Cache Simulator (Starter Code) by Justin Goins
-	Oregon State University
-	Spring Term 2021
-*/
-
 #include "CacheSimulator.h"
 
 Simulator::Simulator(CacheInfo &ci, string tracefile) : Cache(ci) {
